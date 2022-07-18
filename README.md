@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amrohabuddy
+- 👋 Hi, I’m @AleyAhmedNaqvi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on Web Application projects
