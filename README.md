@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on Web Application projects
-- 📫 How to reach me . emial = aleyahmed2001@gmail.com
+- 📫 How to reach me . E-mail = aleyahmed2001@gmail.com
 
 <!---
 amrohabuddy/amrohabuddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
